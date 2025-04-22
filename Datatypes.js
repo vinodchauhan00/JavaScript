@@ -9,7 +9,6 @@
 //Bigint
 //symbol
 
-
 let age =21;
 let firstname="vinod";
 
